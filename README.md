@@ -1,4 +1,8 @@
 # Godmode
+[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgray.svg)](https://github.com/)
+[![Build Status](https://github.com/neohiro/Godmode/actions/workflows/release.yml/badge.svg)](https://github.com/neohiro/Godmode/actions)
+
 Windows Godmode Activator
 
 The only thing this program does:
