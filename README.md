@@ -15,3 +15,5 @@ Windows God Mode is a special folder that provides easy access to over 250 contr
   <a href="https://github.com/sponsors/neohiro"><img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-EA4AAA?logo=githubsponsors&style=for-the-badge" alt="GitHub Sponsors"></a>&nbsp;&nbsp;
   <a href="https://www.patreon.com/frenzypenguin_media"><img src="https://img.shields.io/badge/Patreon-frenzypenguin__media-F96854?logo=patreon&style=for-the-badge" alt="Support on Patreon"></a>
 </p>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com/neohiro/Godmode&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=github.com/neohiro/Godmode)
